@@ -57,4 +57,4 @@ NEXT 12기
 > [과제 제출 페이지](https://github.com/NEXT-LIKELION/2024-NEXT-Assignment/issues)
 
 1. [Issue](https://github.com/NEXT-LIKELION/2024-NEXT-Assignment/issues) 탭을 통해 해당 세션 페이지 클릭하기
-2. 담당 운영진 공지하여 실행 화면과 연결된 레포지토리 주소를 형식에 맞게 댓글로 작성하기
+2. 담당 운영진 공지를 참고하여 실행 화면과 레포지토리 주소를 형식에 맞게 댓글로 작성하기
