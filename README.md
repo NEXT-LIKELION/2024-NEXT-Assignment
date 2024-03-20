@@ -16,7 +16,7 @@ NEXT 12기
 <br>
 03/14 - session4 프로그래밍 언어 & 파이썬 기초 문법
 <br>
-03/18 - session5 파이썬 심화 문법
+03/18 - session5 파이썬 익숙해지기
 <br>
 03/21 - session6 셀레늄 크롤링
 <br>
