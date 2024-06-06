@@ -48,9 +48,9 @@ NEXT 12기
 <br>
 05/30 - session20 해커톤 대비 git+장고 복습
 <br>
-05/27 - session19 리액트 컴포넌트
+05/27 - session19 리액트 심화
 <br>
-05/27 - session19 리액트 라우팅
+05/27 - session19 리액트 컴포넌트
 
 ## 📑 Assignment
 
