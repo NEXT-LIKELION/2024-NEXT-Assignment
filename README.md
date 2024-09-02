@@ -6,7 +6,7 @@ NEXT 12기
 <img width="1500" alt="Mask group" src="https://user-images.githubusercontent.com/55613446/223061736-ffce4c21-007c-4769-a4f9-ae9764b21cb3.png">
 </p>
 
-## 📚 Sessions
+## 📚 Sessions - 1
 
 03/04 - session1 개발 세션 개괄 + HTML/CSS 기초
 <br>
@@ -51,6 +51,22 @@ NEXT 12기
 05/27 - session19 리액트 심화
 <br>
 05/27 - session19 리액트 컴포넌트
+
+## 📚 Sessions - 2
+
+09/02 - session1 SSR와 Next.js
+<br> 
+09/09 - session2 React 최신 동향과 전역상태관리
+<br> 
+09/23 - session3 데이터베이스 SQL 그리고 활용
+<br> 
+10/28 - session4 NestJS의 기본 로직 개념과 디자인 패턴
+<br> 
+11/04 - session5 NestJS TypeORM, Auth 구현
+<br> 
+11/11 - session6 NestJS Lifecycle Guard Scheduling
+<br> 
+11/18 - session7 NestJS EDA
 
 ## 📑 Assignment
 
